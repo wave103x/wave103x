@@ -15,7 +15,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square-endpoint&logo=gmail&logoColor=red&labelColor=FFFFFF)](mailto:wave103x@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&amp;logoColor=white)](https://t.me/wave_103)
 
-## Other:
+## Other
 2 years experienced web-designer \
 English level: B1. [efset.org sertificate](https://www.efset.org/cert/Jyfefh) \
 Courses:
@@ -23,17 +23,4 @@ Courses:
 - HTML Academy
 - CS50 Introduction to Computer Science
 
-<!--
-**wave103x/wave103x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![image](https://www.codewars.com/users/wave103x/badges/small)
