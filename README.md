@@ -19,7 +19,7 @@
 2 years experienced web-designer \
 English level: B1. [efset.org sertificate](https://www.efset.org/cert/Jyfefh) \
 Courses:
-- RS School
+- RS School. [view sertificate](https://app.rs.school/certificate/1pw0hki9)
 - HTML Academy
 - CS50 Introduction to Computer Science
 
