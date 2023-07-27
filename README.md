@@ -1,4 +1,4 @@
-# Junior frontend developer
+# frontend developer
 
 ## Stack
 
